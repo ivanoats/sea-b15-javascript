@@ -1,6 +1,6 @@
 Hello everyone!
 
-My name is Stephen Boles.  I live, and work, at a youth hostel in downtown Fremont.  I do graveyard shifts, drink way too much coffee, and wach noir movies, and listen to old time radio.
+My name is Stephen Boles.  I live, and work, at a travelers hostel in downtown Fremont.  I do graveyard shifts, drink way too much coffee, and wach noir movies.
 
 You can find me on these various digital playgrounds:
 
