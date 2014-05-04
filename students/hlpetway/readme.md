@@ -12,5 +12,5 @@ I'm somewhat new to JS programming and before this class I studied on my own and
 
 *	LinkedIn: [haileypetway](www.linkedin.com/in/haileypetway)
 
-###![It's Me!](https://avatars0.githubusercontent.com/u/6575924?s=460 =200x)
+###![It's Me!](https://avatars0.githubusercontent.com/u/6575924?s=460 =100x)
 
