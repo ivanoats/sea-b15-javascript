@@ -7,7 +7,7 @@ Twitter: [ivanoats](http://twitter.com/ivanoats)
 
 LinkedIn: [ivanoats](http://linkedin.com/in/ivanoats)
 
-I look something somewhat like this:
+I look something somewhat like this below:
 
 ![A photo of me](https://media.licdn.com/mpr/mpr/shrink_200_200/p/5/005/036/2ce/034a2ab.jpg)
 
