@@ -10,7 +10,7 @@ I'm somewhat new to JS programming and before this class I studied on my own and
 
 *	Twitter: [haileypetway](https://twitter.com/haileypetway)
 
-*	LinkedIn: [haileypetway](www.linkedin.com/in/haileypetway)
+*	LinkedIn: [haileypetway](https://linkedin.com/in/haileypetway)
 
 <img src="http://static.squarespace.com/static/518177ede4b085d260ae1148/t/528f8696e4b0e2f77a6f2e9a/1385137826210/hailey?format=300w" alt="It's Me!" style="height: 100px;"/>
 
