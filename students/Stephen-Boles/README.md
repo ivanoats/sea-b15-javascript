@@ -6,7 +6,7 @@ You can find me on these various digital playgrounds:
 
 Twitter:
 
-twitter.com/stephenboles
+http://twitter.com/stephenboles
 
 StephenBoles.com:
 
