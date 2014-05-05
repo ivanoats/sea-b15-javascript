@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Nick Harberg
 
 GitHub: https://github.com/harberg
