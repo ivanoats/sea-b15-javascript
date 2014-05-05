@@ -1,4 +1,4 @@
-Hello everyone!
+Hello everyone.
 
 My name is Stephen Boles.  I live, and work, at a travelers hostel in downtown Fremont.  I do graveyard shifts, drink way too much coffee, and wach noir movies.
 
