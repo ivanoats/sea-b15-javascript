@@ -2,7 +2,7 @@ Nick Harberg
 
 GitHub: https://github.com/harberg
 
-Twitter: @harberg
+Twitter: https://twitter.com/harberg
 
 LinkedIn: https://www.linkedin.com/pub/nicholas-harberg/25/730/210
 
@@ -13,7 +13,3 @@ I look forward to working with all of you.
 sea-b15-javascript
 ==========
 
-Seattle B15 Development Accelerator Main repository
-
-[![Gitter chat](https://badges.gitter.im/codefellows/sea-b15-javascript.png)](https://gitter.im/codefellows/sea-b15-javascript)
->>>>>>> origin/master
